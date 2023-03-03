@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(8, 25, 49);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+main .container{
+    width: 300px;
+    background-color: rgb(16, 30, 59);
+    margin:100px auto 100px ;
+    border-radius: 3%;
+    padding: 5px 5px 0 5px;
+    box-shadow: 5px 5px rgb(12, 29, 54);
+}
+main .container img {
+    width: 260px;
+    border-radius: 10%;
+    padding: 20px;
+}
+main .container h2 {
+    color: white;
+    padding-left: 20px;
+}
+main .container p {
+    color: #777;
+    font-size: 15px;
+    line-height: 2;
+}
+main .container .date {
+    padding: 15px;
+    border-bottom: 1px solid #333;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -10px;
+}
+main .container .date i {
+    margin-right: 3px;
+}
+main .container .date .eth {
+    color: aqua;
+}
+
+main .container .date .days {
+    color: #777;
+    margin-bottom: 10px;
+}
+main .container .creation {
+   display: flex;
+}
+main .container .creation p {
+    margin-top: 20px;
+}
+main .container .creation img{
+    width: 30px;
+}
+main .container .creation span {
+    color: white;
+}
