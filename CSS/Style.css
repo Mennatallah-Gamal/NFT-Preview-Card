@@ -1,15 +1,15 @@
 body {
-    background-color: rgb(8, 25, 49);
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(217, 54%, 11%);
+    font-family: outfit;
 
 }
 main .container{
     width: 300px;
-    background-color: rgb(16, 30, 59);
+    background-color: hsl(216, 50%, 16%);
     margin:100px auto 100px ;
     border-radius: 3%;
     padding: 5px 5px 0 5px;
-    box-shadow: 5px 5px rgb(12, 29, 54);
+    box-shadow: 5px 5px hsl(215, 45%, 20%);
 }
 main .container img {
     width: 260px;
@@ -22,7 +22,7 @@ main .container h2 {
 }
 main .container p {
     color: #777;
-    font-size: 15px;
+    font-size: 18px;
     line-height: 2;
 }
 main .container .date {
@@ -49,6 +49,7 @@ main .container .creation {
 }
 main .container .creation p {
     margin-top: 20px;
+    font-siz: 16px;
 }
 main .container .creation img{
     width: 30px;
