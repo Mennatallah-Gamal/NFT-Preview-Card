@@ -9,7 +9,7 @@ main .container{
     margin:100px auto 100px ;
     border-radius: 3%;
     padding: 5px 5px 0 5px;
-    box-shadow: 5px 5px hsl(215, 45%, 20%);
+    box-shadow: 2px 2px hsl(209, 48%, 19%);
 }
 main .container img {
     width: 260px;
@@ -27,7 +27,7 @@ main .container p {
 }
 main .container .date {
     padding: 15px;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid  hsl(215, 32%, 27%);
     font-size: 14px;
     display: flex;
     justify-content: space-between;
